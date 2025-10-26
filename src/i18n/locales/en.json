@@ -1,0 +1,25 @@
+{
+  "app": {
+    "title": "Travel Mate & Guide",
+    "logout": "Logout",
+    "login": "Login",
+    "language": "Language"
+  },
+  "nav": {
+    "home": "Home",
+    "discover": "Discover",
+    "matches": "Matches",
+    "chat": "Chat",
+    "itinerary": "Itinerary"
+  },
+  "home": {
+    "welcome": "Welcome, solo traveler!",
+    "subtitle": "Find people going to the same destination and plan together."
+  },
+  "login": {
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Sign In",
+    "register": "Register"
+  }
+}
